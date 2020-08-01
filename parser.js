@@ -71,7 +71,7 @@ $(function() {
         parseLi();
         parseP();
         rest();
-        sendScript.value = txt;
+        parseScript.value = txt;
     };
 
     $("#setText").on({
