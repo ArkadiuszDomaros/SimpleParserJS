@@ -1,7 +1,7 @@
 $(function() {
     var txt = "";
     //blockquote
-    function makeblock() {
+    function parseBlock() {
         var a = txt;
         for (var i = 0; i < 100; i++) {
             a = a.replace(/(^\>+)((.*\n\>)*.*)/gm, "$1<blockquote><p>$2</p></blockquote>");
@@ -19,7 +19,7 @@ $(function() {
     };
 
     //ol i li
-    function makeli() {
+    function parseLi() {
         var lin = txt.replace(/\r/g, "").split("\n");
         var n = 1;
         for (var i = 0; i < lin.length; i++) {
@@ -41,7 +41,7 @@ $(function() {
     };
 
     //p
-    function makep() {
+    function parseP() {
         var lin = txt.replace(/\r/g, "").split("\n");
         for (var i = 0; i < lin.length; i++) {
             var x = lin[i].replace(/\r\n/gm, "");
@@ -66,15 +66,15 @@ $(function() {
 
     //main
     function final() {
-        txt = taketext.value;
-        makeblock();
-        makeli();
-        makep();
+        txt = setText.value;
+        parseBlock();
+        parseLi();
+        parseP();
         rest();
-        givescript.value = txt;
+        sendScript.value = txt;
     };
 
-    $("#taketext").on({
+    $("#setText").on({
         input: final
     });
     final();
