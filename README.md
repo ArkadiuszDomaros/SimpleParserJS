@@ -15,25 +15,26 @@ Ania ma 3 koty:
 3. Biała kotka Atena
 Atena często miaucze “miau”, Leon dużo mruczy “purrr”, a Bruno to w sumie głównie śpi i mało go słychać.
 Wyjście:
-< p>Ania ma 3 koty:</ p>
-< ul>
-< li>Czarny kot Bruno< /li>
-< li>Rudy kot Leon< /li>
-<li>Biała kotka Atena< /li>
-< /ul>
-< p>Atena często miaucze < q>miau< /q>, Leon dużo mruczy < q>purrr< /q>, a Bruno to w sumie głównie śpi i mało go słychać.< /p>
-Przykład 2:
-	>>>Dlaczego Słowacki wzbudza w nas zachwyt i miłość? Dlatego, panowie, że Słowacki wielkim poetą był!
-	>>Poezja Słowackiego nikogo nie zachwyca
-	>Jak to nie zachwyca Gałkiewicza, jeśli tysiąc razy tłumaczyłem Gałkiewiczowi, że go zachwyca.
-Wyjście:
-< blockquote>
-< blockquote>
-< blockquote>
-< p>Dlaczego Słowacki wzbudza w nas zachwyt i miłość? Dlatego, panowie, że Słowacki wielkim poetą był!< /p>
-< /blockquote>
-< p>Poezja Słowackiego nikogo nie zachwyca</ p>
-< /blockquote>
-< p>Jak to nie zachwyca Gałkiewicza, jeśli tysiąc razy tłumaczyłem Gałkiewiczowi, że go zachwyca.< /p>
-< /blockquote>
+<p>< p>Ania ma 3 koty:</ p></p>
+<p>< ul></p>
+<p>< li>Czarny kot Bruno< /li></p>
+<p>< li>Rudy kot Leon< /li></p>
+<p><li>Biała kotka Atena< /li></p>
+<p>< /ul></p>
+<p>< p>Atena często miaucze < q>miau< /q>, Leon dużo mruczy < q>purrr< /q>, a Bruno to w sumie głównie śpi i mało go słychać.< /p></p>
+<p></p>	
+<p>Przykład 2:</>
+	<p>>>>Dlaczego Słowacki wzbudza w nas zachwyt i miłość? Dlatego, panowie, że Słowacki wielkim poetą był!</p>
+	<p>>>Poezja Słowackiego nikogo nie zachwyca</p>
+	<p>>Jak to nie zachwyca Gałkiewicza, jeśli tysiąc razy tłumaczyłem Gałkiewiczowi, że go zachwyca.</p>
+<p>Wyjście:</p>
+<p>< blockquote></p>
+<p>< blockquote></p>
+<p>< blockquote>
+<p>< p>Dlaczego Słowacki wzbudza w nas zachwyt i miłość? Dlatego, panowie, że Słowacki wielkim poetą był!< /p></p>
+<p>< /blockquote></p>
+<p>< p>Poezja Słowackiego nikogo nie zachwyca</ p></p>
+<p>< /blockquote></p>
+<p>< p>Jak to nie zachwyca Gałkiewicza, jeśli tysiąc razy tłumaczyłem Gałkiewiczowi, że go zachwyca.< /p></p>
+<p>< /blockquote></p>
 
