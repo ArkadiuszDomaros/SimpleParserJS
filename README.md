@@ -2,6 +2,8 @@ Program stworzony na potrzeby przedmiotu na studiach.
 
 Polecenie zadania:
 
+<blockquote>
+
 Napisać skrypt, który zwykły tekst przetworzy na kod html, według następujących schematów:
 Każda linia bez specjalnej interpretacji tworzy osobny paragraf (znacznik <p>)
 Cudzysłowy proste “ zamieniamy na znaczniki cytatu - w zależności od parzystości otwarcie <q> lub zamknięcie </q>. Opcjonalnie naprzemienne cudzysłowy proste podwójne “ i pojedyncze ‘ możemy zamieniać na zagnieżdżone znaczniki cytatu.
@@ -35,4 +37,6 @@ Wyjście:
 <p>Poezja Słowackiego nikogo nie zachwyca<p>
 </blockquote>
 <p>Jak to nie zachwyca Gałkiewicza, jeśli tysiąc razy tłumaczyłem Gałkiewiczowi, że go zachwyca.<p>
+</blockquote>
+	
 </blockquote>
