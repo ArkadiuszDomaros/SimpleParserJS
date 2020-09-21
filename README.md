@@ -19,7 +19,7 @@
 <p>< ul></p>
 <p>< li>Czarny kot Bruno< /li></p>
 <p>< li>Rudy kot Leon< /li></p>
-<p><li>Biała kotka Atena< /li></p>
+<p>< li>Biała kotka Atena< /li></p>
 <p>< /ul></p>
 <p>< p>Atena często miaucze < q>miau< /q>, Leon dużo mruczy < q>purrr< /q>, a Bruno to w sumie głównie śpi i mało go słychać.< /p></p>
 <p></p>	
